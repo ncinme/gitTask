@@ -1,1 +1,2 @@
-console.log("Git is Awesome!")
+let inputStr = prompt("Please enter your name: ")
+console.log(inputStr)
